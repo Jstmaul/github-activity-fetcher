@@ -9,3 +9,5 @@
 
 ## roadmap : 
 https://roadmap.sh/projects/github-user-activity
+
+ofc i had to use external libraries
