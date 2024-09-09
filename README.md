@@ -3,3 +3,6 @@
 
 ## build : 
 ```make && make clean``` 
+
+## dependencies : 
+```curl```, ```cJSON```
