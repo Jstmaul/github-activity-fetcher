@@ -10,6 +10,6 @@
 ## roadmap : 
 https://roadmap.sh/projects/github-user-activity
 
-ofc i had to use external libraries 
+ofc i had to use external libraries
 
 ```fun fact : this my second project in c! my first language!```
