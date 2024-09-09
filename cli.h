@@ -5,11 +5,12 @@
 #include <string.h>
 #include <stdlib.h>
 #include "curl/curl.h"
+#include "cjson/cJSON.h"
 
 #define USER_AGENT "github-activity/1.0"
 
 struct MemStruct {
-    char* mem;
+    char* memory;
     size_t size;
 };
 
